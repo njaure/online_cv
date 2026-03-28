@@ -13,3 +13,5 @@ assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+ssh_key.txt
+ssh_key.txt.pub
